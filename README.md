@@ -1,2 +1,2 @@
-# ai-assisant-coding
-Ai assisant coding
+# ai-assisted-coding
+Ai assisted coding
